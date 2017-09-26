@@ -1,9 +1,9 @@
 Solutions for exercises in the **Golang** toturial: 
 
-#***A tour of Go***
+***A tour of Go***
 --
 
-###Index(not ordered)
+*Index(not ordered)*
 
 1. Exercise- Web Crawler
 2. Exercise- Stringers
